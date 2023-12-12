@@ -1,4 +1,3 @@
-Certainly! Here's a prompt you can use for the README on GitHub to describe a Python program that involves guessing a number:
 
 ---
 
